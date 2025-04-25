@@ -1,16 +1,19 @@
-## Hi there 👋
+# Olá! Eu sou Guilherme Marcantonio
+<a href="https://github.com/GuilhermeMarcantonio">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeMarcantonio&count_private=true&show_icons=true&theme=dark" />
+</a>
+<a href="https://github.com/GuilhermeMarcantonio">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeMarcantonio&layout=compact&theme=dark" />
+</a>
 
-<!--
-**GuilhermeMarcantonio/GuilhermeMarcantonio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div> 
+ <a href="https://www.linkedin.com/in/guilherme-marcantonio-0226a2362/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
-Here are some ideas to get you started:
+<p> Atualmente sou calouro do curso de Engenharia de Software na Unicesumar <p>
+<p> Trabalho com o setor de vendas do mercado livre como assistente administrativo<p/>
+<p>Estou aprendendo Html e CSS, é meu primeiro contato com Programação, apesar de não serem linguagens de programação em si.<p>
+<p>Tenho muito interesse em me aprofundar no mercado, muito pelo meu desenvolvimento pessoal!<p>
+<h1> Social <h1/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p> guimarcantonio9@gmail.com </p>
